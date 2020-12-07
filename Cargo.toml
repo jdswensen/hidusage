@@ -1,0 +1,13 @@
+[package]
+name = "hidusage"
+version = "0.1.0"
+authors = ["Jake Swensen <jake@swensen.io>"]
+description = "A no_std library for working with HID Usage Tables."
+edition = "2018"
+repository = "https://github.com/jdswensen/hidusage/"
+license = "MPL-2.0"
+keywords = ["hid", "usb"]
+catagories = ["hardware-support", "embedded"]
+readme = "readme.md"
+
+[dependencies]
