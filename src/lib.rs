@@ -1,6 +1,7 @@
 #![no_std]
 pub mod keyboard;
 pub mod button;
+pub mod led;
 
 enum UsageTypeControls {
     LinearControl,
